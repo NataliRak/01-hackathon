@@ -46,19 +46,10 @@ body {
   transform: rotateY(90deg) rotateX(45deg);
 }
 
-.menu .menu-item:hover {
-    background: #343434; 
-    background: #343434;
+.menu .menu-item:hover { 
+  background: #343434;
   transform: perspective(10px);
-}
-
-.open-menu{
-    display: block;
-}
-.close-menu{
-    display: none; 
-}
- 
+} 
 
 li.menu-items:nth-child(1) {
   transition: transform 0.25s 0s cubic-bezier(0, 0.36, 0.95, -0.2),
