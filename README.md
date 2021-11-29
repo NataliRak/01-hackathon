@@ -1,5 +1,5 @@
 # Hackaton #1
-## Результат можно посмотреть ТУТ https://hatckers-okimi.netlify.app/
+### Результат можно посмотреть ТУТ https://hatckers-okimi.netlify.app/
 ## Начальные данные
 
 **В проекте находится:**
